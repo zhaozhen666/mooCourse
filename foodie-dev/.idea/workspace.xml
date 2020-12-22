@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20f16187-6afe-4e8e-81c5-be29135cf0a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/zhao/controller/AddressController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/zhao/controller/OrdersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/zhao/controller/ShopcatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/com/zhao/bo/AddressBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/com/zhao/bo/ShopcartBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/com/zhao/bo/SubmitOrderBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/com/zhao/vo/MerchantOrdersVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pojo/src/main/java/com/zhao/vo/OrderVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/zhao/service/AddressService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/zhao/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/zhao/service/impl/AddressServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/zhao/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/com/zhao/controller/ItemsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/classes/com/zhao/controller/ItemsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapper/target/classes/com/zhao/mapper/ItemsMapperCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/mapper/target/classes/com/zhao/mapper/ItemsMapperCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapper/target/classes/mapper/ItemsMapperCustom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapper/target/classes/mapper/ItemsMapperCustom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/target/classes/com/zhao/service/ItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/target/classes/com/zhao/service/ItemService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/target/classes/com/zhao/service/impl/ItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/target/classes/com/zhao/service/impl/ItemServiceImpl.class" afterDir="false" />
-    </list>
+    <list default="true" id="20f16187-6afe-4e8e-81c5-be29135cf0a6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/common/target/" />
     <ignored path="$PROJECT_DIR$/service/target/" />
     <ignored path="$PROJECT_DIR$/pojo/target/" />
@@ -472,7 +453,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608612480668" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608612991894" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -579,7 +560,7 @@
       <workItem from="1607644364590" duration="970000" />
       <workItem from="1607739729515" duration="8917000" />
       <workItem from="1607949642099" duration="6887000" />
-      <workItem from="1608131610722" duration="35120000" />
+      <workItem from="1608131610722" duration="35607000" />
     </task>
     <servers />
   </component>
@@ -592,11 +573,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35120000" />
+    <option name="totallyTimeSpent" value="35607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="721" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
